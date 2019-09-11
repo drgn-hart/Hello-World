@@ -1,7 +1,7 @@
 {
-    "name": "Timer",
+    "name": "Hello World",
     "version": "1.0",
-    "description": "Timer extension for the browser",
+    "description": "First chrome extension",
     "permissions": ["activeTab","storage", "declarativeContent"],
     "options_page": "options.html",
     "page_action": {
